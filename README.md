@@ -19,11 +19,11 @@ The **Stone Paper Scissor Game** is a simple web application that allows users t
 
 ### Game Interface
 
-![Game Interface](screenshots/Screenshot1.png)
+![Game Interface](img/screenshots/Screenshot1.png)
 
 ### Result Display
 
-![Result Display](screenshots/Screenshot2.png)
+![Result Display](img/screenshots/Screenshot2.png)
 
 ## Installation
 
